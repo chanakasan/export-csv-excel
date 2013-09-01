@@ -1,1 +1,8 @@
-=== Export content in csv and excel formats
+=== Description
+Export content in csv and excel formats. 
+
+=== Requirements
+Rails 3.2
+
+=== References
+http://railscasts.com/episodes/362-exporting-csv-and-excel
